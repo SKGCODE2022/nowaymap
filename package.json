@@ -31,5 +31,7 @@
     "vite": "^2.9.9"
   },
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.14.3"
+  }
 }
